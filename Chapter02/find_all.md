@@ -81,3 +81,4 @@ for item in result:
  
  ## Reference
  - https://www.crummy.com/software/BeautifulSoup/bs4/doc/#searching-the-tree
+ - ChatGPT. (2021). OpenAI Language Models. Retrieved September 22, 2021, from https://openai.com/language-models/
