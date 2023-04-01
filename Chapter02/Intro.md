@@ -6,6 +6,6 @@ find() : return first-found ![Tag obejcts](https://www.crummy.com/software/Beaut
 find_all() : return a list of Tag objects that satisfied our searching
 
 > Tag  
-> NavigableString. 
-> Comment. 
+> NavigableString  
+> Comment
 
