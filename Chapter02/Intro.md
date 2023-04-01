@@ -9,3 +9,6 @@ find_all() : return a list of Tag objects that satisfied our searching
 > NavigableString  
 > Comment
 
+
+
+## Regrex
