@@ -64,7 +64,8 @@ for item in result:
   
 在這個示例中，我們使用了名為filter_function的過濾函數，以更進一步篩選要查找的元素。find_all()方法是根據設定的name、attrs、recursive、text和limit參數來查找匹配條件的元素。對於實際應用，您可能不需要在一個查詢中使用所有參數。通常，根據需求組合使用幾個參數即可滿足大多數情況。
   
-若只要內文，可以使用get_text()
+---
+**若只要內文，可以使用get_text()**
  
   ```python
   for item in result:
