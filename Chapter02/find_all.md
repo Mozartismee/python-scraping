@@ -80,5 +80,4 @@ for item in result:
  
  
  ## Reference
- ---
  - https://www.crummy.com/software/BeautifulSoup/bs4/doc/#searching-the-tree
